@@ -11,7 +11,7 @@ int add(int a, int b);
 int main (int argc, char* argv[]) {
 
     int magicNum = 15;
-    int magicB = 42;
+    //int magicB = 42;
     printf("%d\n", add(magicNum, 42));
 
     return EXIT_SUCCESS;
